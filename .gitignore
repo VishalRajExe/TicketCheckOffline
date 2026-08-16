@@ -1,0 +1,56 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/DALVIK VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated build files
+build/
+app/build/
+
+# Gradle files
+.gradle/
+
+# Local configuration file (contains SDK path and local secrets)
+local.properties
+secrets.properties
+
+# Log Files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+captures/
+
+# NDK / C++ build output
+.externalNativeBuild
+.cxx/
+
+# Keystore / Signing files
+*.jks
+*.keystore
+*.pepk
+*.p12
+*.pem
+*.key
+*.pkcs12
+
+# Google services / Firebase credentials & env files
+google-services.json
+firebase.json
+*.env
+*.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
